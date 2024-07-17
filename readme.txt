@@ -50,9 +50,3 @@ informatiile.
 Surse:
 https://beej.us/guide/bgnet/html/#poll
 https://www.geeksforgeeks.org/wildcard-pattern-matching/
-
-Observatii:
-Am modificat din checker doar calea fisierului cu udp, adica e in acelasi loc cu scriptul
-de testare. Am citit problema asta de pe forum si s-a rezolvat.
-Imi trec toate testele mai putin unul de la wildcard in cazul in care se ruleaza scriptul 
-de testare si nu da cum trebuie tb rulat din nou. O sa atasez o poza cu punctajul primit pe masina.
